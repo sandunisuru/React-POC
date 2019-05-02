@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.c604a52f.chunk.css",
-    "main.js": "/static/js/main.dae6668a.chunk.js",
-    "main.js.map": "/static/js/main.dae6668a.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.86274400.chunk.js": "/static/js/2.86274400.chunk.js",
-    "static/js/2.86274400.chunk.js.map": "/static/js/2.86274400.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.65a0adbac660e862896ecc60ea16bb7a.js": "/precache-manifest.65a0adbac660e862896ecc60ea16bb7a.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.c604a52f.chunk.css.map": "/static/css/main.c604a52f.chunk.css.map"
+    "main.css": "/React-POC/static/css/main.c604a52f.chunk.css",
+    "main.js": "/React-POC/static/js/main.dae6668a.chunk.js",
+    "main.js.map": "/React-POC/static/js/main.dae6668a.chunk.js.map",
+    "runtime~main.js": "/React-POC/static/js/runtime~main.b7755646.js",
+    "runtime~main.js.map": "/React-POC/static/js/runtime~main.b7755646.js.map",
+    "static/js/2.86274400.chunk.js": "/React-POC/static/js/2.86274400.chunk.js",
+    "static/js/2.86274400.chunk.js.map": "/React-POC/static/js/2.86274400.chunk.js.map",
+    "index.html": "/React-POC/index.html",
+    "precache-manifest.1d58c213f9da65401a33eea0549b3169.js": "/React-POC/precache-manifest.1d58c213f9da65401a33eea0549b3169.js",
+    "service-worker.js": "/React-POC/service-worker.js",
+    "static/css/main.c604a52f.chunk.css.map": "/React-POC/static/css/main.c604a52f.chunk.css.map"
   }
 }
